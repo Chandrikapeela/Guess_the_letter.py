@@ -26,7 +26,7 @@ Welcome to the Word Guessing Game! This is a simple console-based game where you
    If you haven't already, clone or download this repository to your local machine.
 
    ```bash
-   git clone https://github.com/yourusername/word-guessing-game.git
+   git clone https://github.com/Chandrikapeela/Guess_the_letter.py.git
    cd word-guessing-game
    ```
 
